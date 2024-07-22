@@ -18,7 +18,7 @@ The amount of passwords generated is controlled by the ```$numberOfPasswords``` 
 
 ## Usage
 
-  Download the script files (simple_password_generator.ps1 and strong_password_generator.ps1) to your server.
+  Download the script files to your machine.
   
   Open a PowerShell window with administrative privileges.
   
