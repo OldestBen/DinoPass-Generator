@@ -1,5 +1,5 @@
 # Define the number of passwords to generate
-$numberOfPasswords = 222
+$numberOfPasswords = 5
 # Create an empty array to hold the passwords
 $passwords = @()
 
