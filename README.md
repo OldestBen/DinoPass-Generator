@@ -3,8 +3,8 @@
 
 
 The DinoPass Password Generator scripts are designed to generate multiple simple or strong passwords using the DinoPass service and export them to a CSV file at the root of the C: drive.
-The amount of passwords generated is controlled by the ```$numberOfPasswords``` variable.
-The default value is 5.
+The amount of passwords generated is controlled by the ```$numberOfPasswords``` variable (the default value is five).
+
 
 
 ## Scripts
